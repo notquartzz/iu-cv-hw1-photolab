@@ -4,7 +4,7 @@
 
 Все фото в `data/` — свои, сняты телефоном и уменьшены до ≤ 2000 px по длинной стороне (`INTER_AREA`, JPEG q92, каждый ≤ 1.5 МБ).
 `text.jpg` обрезан сверху (в кадр попал монитор). Кадры курса (`iu-building.jpg`, `ball-lamp.jpg`, `ball-day.jpg`,
-`poster-angle.jpg`, `poster-gt.png`, `road-cam.jpg`) взяты из репозитория курса.
+`poster-angle.jpg`, `poster-gt.png`, `road-cam.jpg`) взяты из репозитория курса, в этот репозиторий не копировались.
 
 ## 1. Числа
 
